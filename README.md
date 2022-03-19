@@ -2,21 +2,25 @@
 <h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
 
 
-- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de uma campanha de marketing do Faceebook
+- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de uma campanha de marketing do Faceebook.
 
-- 🌱 Agora estou aprendendo **Python e Digital Marketing**
+- 🌱 Agora estou aprendendo **Python e Digital Marketing**.
 
-- 💬 Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets
+- ⚡ Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
+
+- ➕ Mas uso também: SQL Server, Power BI, Google Data Studio, Google Analytics, Minitab, SAP, Notion e o Canva.
 
 - 📫 Além das comunidades de Data Science e das minhas perguntas no Stack Overflow, você me acha no LinkedIn também 😅
 
-- 👨‍💻 Meu primeiro projeto está disponível [aqui](https://drive.google.com/drive/folders/177OmvD_uotUdnFlqrSrLSFPk9J4zAFVb)
+- 👨‍💻 Meu primeiro projeto está disponível [aqui](https://drive.google.com/drive/folders/177OmvD_uotUdnFlqrSrLSFPk9J4zAFVb).
 
-- 📝 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, inovação, tecnologia, produtividade e autodesenvolvimento.
+- 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, inovação, tecnologia, produtividade e autodesenvolvimento.
 
 - 📄 Se quiser saber mais sobre mim, mantenho sempre meu [LinkedIn](https://www.linkedin.com/in/joaopedroreis08/) sempre atualizado.
 
-- 👀 Uma curiosidade sobre mim **Eu sou viciado em produtividade e podcasts, sempre que posso, estou escutando, seja lavando louças, fazendo uma faxina ou para pegar no sono**
+- 🐱‍👤 Gosto muito de resolver cases, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
+
+- 👀 Uma curiosidade sobre mim: Eu sou viciado em produtividade e podcasts, sempre que posso, estou escutando, principalmente quando lavo louças e gerencio praticamente tudo pelo Notion, minhas tarefas, agenda e anotações.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
