@@ -20,7 +20,7 @@
 
 - 🐱‍👤 Gosto muito de resolver cases, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
 
-- 👀 Uma curiosidade sobre mim: Eu sou viciado em produtividade e podcasts, sempre que posso, estou escutando, principalmente quando lavo louças e gerencio praticamente tudo pelo Notion, minhas tarefas, agenda e anotações.
+- 👀 Uma curiosidade sobre mim: Eu sou viciado em produtividade e podcasts, escuto pelo menos +- 1h / dia, sempre quando lavo louças e além disso, uso o Notion para gerenciar praticamente tudo, minhas tarefas, agenda, anotações...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
