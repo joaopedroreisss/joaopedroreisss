@@ -2,9 +2,9 @@
 <h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
 
 
-- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de uma campanha de marketing do Facebook.
+- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de campanhas de marketing do Facebook.
 
-- 🌱 Agora estou aprendendo **Python e Digital Marketing**.
+- 🌱 Agora, estou aprendendo **Python e Digital Marketing**.
 
 - ⚡ Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
 
