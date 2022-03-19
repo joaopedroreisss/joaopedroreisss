@@ -16,7 +16,7 @@
 
 - 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, inovação, tecnologia, produtividade e autodesenvolvimento.
 
-- 📄 Se quiser saber mais sobre mim, mantenho sempre meu [LinkedIn](https://www.linkedin.com/in/joaopedroreis08/) sempre atualizado.
+- 📄 Se quiser saber mais sobre mim, mantenho meu [LinkedIn](https://www.linkedin.com/in/joaopedroreis08/) sempre atualizado.
 
 - 🐱‍👤 Gosto muito de resolver cases, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
 
