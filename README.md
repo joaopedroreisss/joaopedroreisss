@@ -2,7 +2,7 @@
 <h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
 
 
-- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de uma campanha de marketing do Faceebook.
+- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de uma campanha de marketing do Facebook.
 
 - 🌱 Agora estou aprendendo **Python e Digital Marketing**.
 
