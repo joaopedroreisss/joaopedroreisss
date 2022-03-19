@@ -1,19 +1,22 @@
 <h1 align="center">Oi 👋, Eu sou o João Pedro</h1>
-<h3 align="center">Apaixonado por Data Science & Analytics</h3>
+<h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Digital Marketing**
 
-- 👨‍💻 Todos os meus projetos estão aqui [https://drive.google.com/drive/folders/177OmvD_uotUdnFlqrSrLSFPk9J4zAFVb](https://drive.google.com/drive/folders/177OmvD_uotUdnFlqrSrLSFPk9J4zAFVb)
+- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de uma campanha de marketing do Faceebook
 
-- 📝 Eu geralmente escrevo algumas coisas no LinkedIn também [https://www.linkedin.com/in/joaopedroreis08/](https://www.linkedin.com/in/joaopedroreis08/)
+- 🌱 Agora estou aprendendo **Python e Digital Marketing**
 
-- 💬 Me pergunte sobre **Excel, VBA, PostgreSQL, Tableau e Google Sheets**
+- 💬 Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets
 
-- 📫 Além das comunidades de DS e do Stackoverflow, você me acha no LinkedIn também 😅 **https://www.linkedin.com/in/joaopedroreis08/**
+- 📫 Além das comunidades de Data Science e das minhas perguntas no Stack Overflow, você me acha no LinkedIn também 😅
 
-- 📄 Se quiser saber mais sobre mim, mantenho sempre meu LinkedIn atualizado [https://www.linkedin.com/in/joaopedroreis08/](https://www.linkedin.com/in/joaopedroreis08/)
+- 👨‍💻 Meu primeiro projeto está disponível [aqui](https://drive.google.com/drive/folders/177OmvD_uotUdnFlqrSrLSFPk9J4zAFVb)
 
-- ⚡ Uma curiosidade sobre mim **Eu gosto mais mais de escutar podcasts do que assistir filmes**
+- 📝 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, inovação, tecnologia, produtividade e autodesenvolvimento.
+
+- 📄 Se quiser saber mais sobre mim, mantenho sempre meu [LinkedIn](https://www.linkedin.com/in/joaopedroreis08/) sempre atualizado.
+
+- 👀 Uma curiosidade sobre mim **Eu sou viciado em produtividade e podcasts, sempre que posso, estou escutando, seja lavando louças, fazendo uma faxina ou para pegar no sono**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
