@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o João Pedro</h1>
+<h1 align="center">Oi 👋, eu sou o João Pedro</h1>
 <h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
 
 
