@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o João Pedro</h1>
-<h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
+<h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Finanças, Data Science & Analytics</h3>
 
 
 - 🔭 Atualmente, estou desenvolvendo um projeto que inclui um Dashboard e EDA em cima do Dataset do Olist disponível no Kaggle.
