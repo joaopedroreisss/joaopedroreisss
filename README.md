@@ -2,13 +2,13 @@
 <h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Data Science & Analytics</h3>
 
 
-- 🔭 Atualmente, estou desenvolvendo um dashboard para análise de campanhas de marketing do Facebook.
+- 🔭 Atualmente, estou desenvolvendo um projeto que inclui um Dashboard e EDA em cima do Dataset do Olist disponível no Kaggle.
 
 - 🌱 Agora, estou aprendendo **Python e Digital Marketing**.
 
 - ⚡ Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
 
-- ➕ Mas uso também: SQL Server, Power BI, Google Data Studio, Google Analytics, Minitab, SAP, Notion e o Canva.
+- ➕ Mas uso também: SQL Server, Python, Power BI, Google Data Studio, Google Analytics, Minitab, SAP, Notion e o Canva.
 
 - 📫 Além das comunidades de Data Science e das minhas perguntas no Stack Overflow, você me acha no LinkedIn também 😅
 
