@@ -8,7 +8,7 @@
 
 - ⚡ Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
 
-- ➕ Mas uso também: SQL Server, Python, Power BI, Google Data Studio, Google Analytics, Minitab, SAP, Notion e o Canva.
+- ➕ Mas uso também: SQL Server, Python, Power BI, Google Data Studio, Google Analytics, BigQuery, Minitab, SAP, Notion e o Canva.
 
 - 📫 Além das comunidades de Data Science e das minhas perguntas no Stack Overflow, você me acha no LinkedIn também 😅
 
