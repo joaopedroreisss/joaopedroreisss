@@ -1,26 +1,26 @@
 <h1 align="center">Oi 👋, eu sou o João Pedro</h1>
-<h3 align="center">Life Long Learner Apaixonado pelo Mundo de Marketing, Finanças, Data Science & Analytics</h3>
+<h3 align="center">Life Long Learner Apaixonado pelo Mundo de Data Science & Analytics</h3>
 
 
 - 🔭 Atualmente, estou desenvolvendo um projeto que inclui um Dashboard e EDA em cima do Dataset do Olist disponível no Kaggle.
 
-- 🌱 Agora, estou aprendendo **Python e Digital Marketing**.
+- 🌱 Agora, estou estudando na **Comunidade DS, aprendendo sobre Data Science**.
 
-- ⚡ Hoje, as ferramentas que domino são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
+- ⚡ Hoje, as ferramentas que possuo mais experiência são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
 
-- ➕ Mas uso também: SQL Server, Python, Power BI, Google Data Studio, Google Analytics, BigQuery, Minitab, SAP, Notion e o Canva.
+- ➕ Mas uso também: SQL Server, Python, Power BI, Google Data Studio, BigQuery e outros...
 
 - 📫 Além das comunidades de Data Science e das minhas perguntas no Stack Overflow, você me acha no LinkedIn também 😅
 
-- 👨‍💻 Meu primeiro projeto está disponível [aqui](https://drive.google.com/drive/folders/177OmvD_uotUdnFlqrSrLSFPk9J4zAFVb).
+- 👨‍💻 Meu porfólio de projetos está disponível [aqui]( https://joaopedroreisss.github.io/portfolio_projetos/).
 
 - 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, inovação, tecnologia, produtividade e autodesenvolvimento.
 
 - 📄 Se quiser saber mais sobre mim, mantenho meu [LinkedIn](https://www.linkedin.com/in/joaopedroreis08/) sempre atualizado.
 
-- 🐱‍👤 Gosto muito de resolver cases, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
+- 🐱‍👤 Gosto muito de resolver cases que respondem perguntas de negócios, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
 
-- 👀 Uma curiosidade sobre mim: Eu sou viciado em produtividade e podcasts, escuto princalmente quando lavo louças (+- 1h / dia) e além disso, uso o Notion para gerenciar praticamente tudo, minhas tarefas, agenda, anotações...
+- 👀 Uma curiosidade sobre mim: Eu sou viciado em produtividade e podcasts, uso o Notion para gerenciar praticamente tudo, minhas tarefas, agenda, anotações...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
