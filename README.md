@@ -2,7 +2,7 @@
 <h3 align="center">Life Long Learner Apaixonado pelo Mundo de Data Science & Analytics</h3>
 
 
-- 🔭 Atualmente, estou desenvolvendo um projeto que inclui um Dashboard e EDA em cima do Dataset do Olist disponível no Kaggle.
+<!-- - 🔭 Atualmente, estou desenvolvendo um projeto que inclui um Dashboard e EDA em cima do Dataset do Olist disponível no Kaggle. -->
 
 - 🌱 Agora, estou estudando na **Comunidade DS, aprendendo sobre Data Science**.
 
