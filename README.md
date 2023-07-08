@@ -6,15 +6,13 @@
 
 - 🌱 Agora, estou estudando na **Comunidade DS, me desenvolvendo em Data Science**.
 
-- ⚡ Hoje, as ferramentas que possuo mais experiência são: Excel, VBA, PostgreSQL, Tableau e Google Sheets.
-
-- ➕ Mas uso também: SQL Server, Python, Power BI, Google Data Studio, BigQuery e outros...
+- ⚡ Hoje, as ferramentas que possuo mais experiência são: Excel, VBA, SQL, Python, Tableau e Google Sheets.
 
 - 📫 Além das comunidades de Data Science e das minhas perguntas no Stack Overflow, você me acha no LinkedIn também 😅
 
 - 👨‍💻 Meu porfólio de projetos está disponível [aqui]( https://joaopedroreisss.github.io/portfolio_projetos/).
 
-- 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, inovação, tecnologia, produtividade e autodesenvolvimento.
+- 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, dados, tecnologia, produtividade e autodesenvolvimento.
 
 - 📄 Se quiser saber mais sobre mim, mantenho meu [LinkedIn](https://www.linkedin.com/in/joaopedroreis08/) sempre atualizado.
 
