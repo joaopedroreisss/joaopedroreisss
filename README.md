@@ -6,7 +6,7 @@
 
 - 🌱 Agora, estou estudando na **Comunidade DS, me desenvolvendo em Data Science**.
 
-- ⚡ Hoje, as ferramentas que possuo mais experiência são: Excel, VBA, SQL, Python, Power BI, Metabase e Google Sheets.
+- ⚡ Hoje, as ferramentas que possuo mais experiência são: SQL, Python, Power BI, Metabase, Excel, VBA e Google Sheets.
 
 - 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, dados, tecnologia, produtividade e autodesenvolvimento.
 
