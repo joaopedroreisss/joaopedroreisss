@@ -12,7 +12,7 @@
 
 - 👤 Gosto muito de resolver cases e responder perguntas de negócios, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
 
-- 👀 Uma curiosidade sobre mim: Eu sou viciado em produtividade e podcasts, uso o Notion para gerenciar praticamente tudo, minhas tarefas, agenda, anotações...
+- 👀 Uma curiosidade: Tenho um artigo postado no blog do Data Hackers (maior comunidade de dados do Brasil), [neste artigo](https://medium.com/data-hackers/tem-vontade-de-fazer-uma-transi%C3%A7%C3%A3o-de-carreira-para-a-%C3%A1rea-de-an%C3%A1lise-de-dados-mas-est%C3%A1-indeciso-5e15764eace) crio um plano passoa a passo para pessoas que desejam fazer transição de carreira para Data Analytics.
 
 **Entre em contato comigo:**
 
