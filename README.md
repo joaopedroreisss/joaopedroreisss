@@ -8,7 +8,7 @@
 
 - ⚡ Hoje, as ferramentas que possuo mais experiência são: SQL, Python, Power BI, Metabase, Excel, VBA e Google Sheets.
 
-- 💬 Eu geralmente escrevo algumas coisas no LinkedIn também, no geral, falo sobre: negócios, dados, tecnologia, produtividade e autodesenvolvimento.
+- 💬 Eu geralmente escrevo algumas coisas no LinkedIn 1x por semana, no geral, falo sobre: negócios, dados, tecnologia, produtividade e autodesenvolvimento.
 
 - 👤 Gosto muito de resolver cases e responder perguntas de negócios, principalmente em SQL, se quiser ver alguns que resolvi, [aqui](https://platform.stratascratch.com/user/joaopedroreisss) tem +52, de todos os níveis e de várias Big Techs.
 
